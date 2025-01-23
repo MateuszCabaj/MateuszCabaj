@@ -12,6 +12,9 @@
 
 <div align="center">
 
+  🔭 I'm currently a student at **IU**
+
+  🌱 I'm currently learning **Java, Gradle, Svelt**
 </div>
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>

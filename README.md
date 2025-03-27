@@ -18,6 +18,6 @@
 <h2 align="center">⚒️ Tech Stack ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=apple, mysql, php, arch, git" />
-    <img src="https://skillicons.dev/icons?i=vim, neovim, github, windows" /><br>
+    <img src="https://skillicons.dev/icons?i=apple,mysql,php,arch,git" />
+    <img src="https://skillicons.dev/icons?i=vim,neovim,github,windows" /><br>
 </div>

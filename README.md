@@ -19,5 +19,5 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=apple,postgres,go,arch,git,tailwind" />
-    <img src="https://skillicons.dev/icons?i=vim,neovim,github,windows,htmx,docker" /><br>
+    <img src="https://skillicons.dev/icons?i=vim,neovim,github,htmx,docker" /><br>
 </div>
